@@ -1,3 +1,3 @@
-### project-promo-j-module-3-team-2
+### Sailor Moon Cards App Refactor
 
-# PROYECTO: Refactorización del proyecto 'Sailor Moon' realizado por el equipo 6 en el módulo anterior.
+# PROYECTO: External project refactor (From JavaScript ES6 to React)
